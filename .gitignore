@@ -1,0 +1,6 @@
+*.csv
+*.zip
+.venv
+.history
+.vscode
+.ipynb_checkpoints
