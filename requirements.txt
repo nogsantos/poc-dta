@@ -4,3 +4,5 @@ jupyter
 scipy
 matplotlib
 seaborn
+xlrd
+folium
